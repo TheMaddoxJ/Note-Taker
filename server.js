@@ -75,7 +75,7 @@ app.get("/", function(req, res){
 });
 
 // Setting the location of our port and using it in my app.listen function
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, () => {
   console.log(`app listening at http://localhost:${PORT}`);
