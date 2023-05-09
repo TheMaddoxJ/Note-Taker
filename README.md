@@ -31,3 +31,11 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Screenshots
+
+![Note Taker Landing Page](https://user-images.githubusercontent.com/123782105/236974773-e9c44b0c-a989-4246-95e5-3819bc3c52a2.png)
+<br>
+![Note Taker 2](https://user-images.githubusercontent.com/123782105/236974783-3ed99cec-70fd-42ce-a363-3f8d59a79018.png)
+<br>
+![Note Taker 3](https://user-images.githubusercontent.com/123782105/236974786-286108ac-6d98-4ce1-affc-558f7547554e.png)
