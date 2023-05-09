@@ -39,3 +39,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Note Taker 2](https://user-images.githubusercontent.com/123782105/236974783-3ed99cec-70fd-42ce-a363-3f8d59a79018.png)
 <br>
 ![Note Taker 3](https://user-images.githubusercontent.com/123782105/236974786-286108ac-6d98-4ce1-affc-558f7547554e.png)
+<br>
+![Note Taker 4](https://user-images.githubusercontent.com/123782105/236975092-726b98a5-a2e5-463c-b9fd-a12af026df5f.png)
+
+
